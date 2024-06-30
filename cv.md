@@ -10,7 +10,9 @@
 
 ## Summary
 
-I've worked as an HR manager in IT for over 6 years. My strengths are communication, handling stress well, and being resourceful. During my job, I've implemented company policies, managed projects, and communicated with both employees and managers. My main focus is keeping employees happy. To do this, I've improved how new hires adapt and perform.
+I've worked as an HR manager in IT for over 6 years. My strengths are communication, handling stress well, and being resourceful. During my job, I've implemented company policies, managed projects, and communicated with both employees and managers.
+
+My main focus is keeping employees happy. To do this, I've improved how new hires adapt and perform.
 
 My goal is to learn the basics of JavaScript, HTML, and CSS for further education and to switch careers later on.
 
