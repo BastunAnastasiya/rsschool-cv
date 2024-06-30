@@ -6,7 +6,7 @@
 |--------------|-------------------------|
 | Telegram     | @Bastun_Anastasia       |
 | Email        | bastun.anastasiia@gmail |
-| WhatsApp     | +7 (706) 411-75-87      |
+| WhatsApp     | +7 706 411-75-87        |
 
 ## Summary
 
